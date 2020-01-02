@@ -3,3 +3,7 @@ This project extracts the text from an article using Python Article Library and 
 
 # How to use this code to extract your own favorite article
 Copy and paste the URL of your favorite article into "url =..." to extract relevant information from your article
+
+# Tutorial blog
+https://medium.com/@khuyentran1476/find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733
+
