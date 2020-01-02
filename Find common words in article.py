@@ -2,7 +2,7 @@ pip install newspaper3k
 
 from newspaper import Article
 
-url = 'https://humanparts.medium.com/im-not-weird-you-re-weird-b88bc9ed6621'
+url = 'https://mystudentvoices.com/it-took-me-2-years-to-get-1000-followers-life-lessons-ive-learned-throughout-the-journey-9bc44f2959f0'
 
 article = Article(url)
 
